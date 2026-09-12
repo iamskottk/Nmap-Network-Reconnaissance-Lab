@@ -7,12 +7,25 @@
 
 ## 👤 Author
 
-**Kabo Sekoto**
-Junior Cybersecurity Practitioner
-Transitioning from IT Administration to Cybersecurity
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
 
-🔗 [LinkedIn](https://linkedin.com/in/kabosekoto)
-▶️ [YouTube](https://www.youtube.com/@IamSkottK)
+> `Learning → Building → Testing → Securing`
+
+This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
+
+### 🌐 Cybersecurity Journey
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 
@@ -376,9 +389,21 @@ The exercise strengthens practical networking and cybersecurity skills and forms
 
 ## 👤 Author
 
-**Kabo Sekoto**
-Junior Cybersecurity Practitioner
-Transitioning from IT Administration to Cybersecurity
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
 
-🔗 [LinkedIn](https://linkedin.com/in/kabosekoto)
-▶️ [YouTube](https://www.youtube.com/@IamSkottK)
+> `Learning → Building → Testing → Securing`
+
+This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
+
+### 🌐 Cybersecurity Journey
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
