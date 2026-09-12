@@ -354,13 +354,14 @@ Unauthorised scanning may violate organisational policies or applicable laws.
 
 ---
 
-# 📚 References
+## 📚 References
 
-* [Nmap](https://nmap.org/)
-* [Nmap Reference Guide](https://nmap.org/book/man.html)
-* [Kali Linux](https://www.kali.org/)
-* [MITRE ATT&CK](https://attack.mitre.org/)
+> Official documentation and industry frameworks referenced throughout this project.
 
+- 🌐 [**Nmap**](https://nmap.org/) — Network discovery and security auditing
+- 📖 [**Nmap Reference Guide**](https://nmap.org/book/man.html) — Official Nmap documentation
+- 🐉 [**Kali Linux**](https://www.kali.org/) — Penetration testing and security platform
+- 🛡️ [**MITRE ATT&CK**](https://attack.mitre.org/) — Adversary tactics and techniques framework
 ---
 
 # 🏁 Conclusion
