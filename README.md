@@ -245,32 +245,6 @@ Based on network reconnaissance findings, organisations should consider:
 * Regular network security assessments
 
 ---
-
-# 📸 Evidence
-
-Screenshots from the laboratory exercise can be stored in the `screenshots` directory.
-
-```text
-screenshots/
-├── 01-kali-ip-address.png
-├── 02-host-discovery.png
-├── 03-port-scan.png
-├── 04-service-version-scan.png
-├── 05-os-detection.png
-└── 06-final-results.png
-```
-
-Do not upload:
-
-* Passwords
-* API keys
-* Personal information
-* Confidential IP addresses
-* Production system information
-* Sensitive organisational data
-
----
-
 # 🧰 Commands Used
 
 ```bash
